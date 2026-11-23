@@ -8,7 +8,7 @@ export const isMockMode = () => {
 };
 
 export const getApiBaseUrl = () => {
-  return process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.odyssey.travel/v1';
+  return process.env.NEXT_PUBLIC_API_BASE_URL || 'https://api.aitravelplanner.io/v1';
 };
 
 /**

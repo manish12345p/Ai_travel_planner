@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 /**
  * Cohesive "Coming Soon" placeholder screen component.
- * Uses Odyssey's brand colors, typography, and card aesthetic.
+ * Uses AiTravelPlanner's brand colors, typography, and card aesthetic.
  *
  * @param {object} props
  * @param {string} props.title
@@ -35,7 +35,7 @@ export default function ComingSoonPlaceholder({
           ✦
         </div>
         <p className="text-xs text-slate-600 font-medium">
-          Odyssey AI is actively calibrating this module. Check back shortly or continue exploring curated journeys.
+          AiTravelPlanner is actively calibrating this module. Check back shortly or continue exploring curated journeys.
         </p>
       </div>
 

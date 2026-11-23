@@ -33,7 +33,7 @@ export default function CtaBanner({ initialData = null, initialError = null }) {
 
   return (
     <section
-      aria-label="Get Started with Odyssey"
+      aria-label="Get Started with AiTravelPlanner"
       className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 mb-16"
     >
       {loading ? (

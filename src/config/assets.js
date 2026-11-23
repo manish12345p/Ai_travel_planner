@@ -10,6 +10,7 @@ export const ASSETS = {
     destinationAmalfi: '/assets/images/destination-amalfi.png',
     destinationReykjavik: '/assets/images/destination-reykjavik.png',
     avatarAlexRivera: '/assets/images/avatar-alex-rivera.png',
+    aiTravelPlannerLogo: '/assets/images/aitravelplanner-logo.png',
     odysseyLogo: '/assets/images/odyssey-logo.png',
   },
   placeholders: {

@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Explore Map - ODYSSEY AI',
+  title: 'Explore Map - AiTravelPlanner',
 };
 
 export default function ExploreMapPage() {

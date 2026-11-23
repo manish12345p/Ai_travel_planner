@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Plan Journey - ODYSSEY AI',
+  title: 'Plan Journey - AiTravelPlanner',
 };
 
 export default function PlanPage() {

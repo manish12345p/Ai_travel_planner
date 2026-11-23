@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Satellite Network - ODYSSEY AI',
+  title: 'Satellite Network - AiTravelPlanner',
 };
 
 export default function SatelliteNetworkPage() {

@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Empty state component matching the Odyssey design system.
+ * Empty state component matching the AiTravelPlanner design system.
  *
  * @param {object} props
  * @param {string} [props.title='No items found']

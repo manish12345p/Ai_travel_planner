@@ -3,7 +3,7 @@ import { mockActiveTrip } from '@/data/mock/activeTrip';
 
 /**
  * Endpoint: GET /api/v1/trips/active
- * Description: Retrieves the currently synced itinerary active on the user's Odyssey session.
+ * Description: Retrieves the currently synced itinerary active on the user's AiTravelPlanner session.
  *
  * @returns {Promise<{
  *   data: {

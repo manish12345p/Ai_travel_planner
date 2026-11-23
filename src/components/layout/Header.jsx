@@ -40,12 +40,12 @@ export default function Header({ initialUser = null, initialActiveTrip = null })
           <Link
             href="/"
             className="flex items-center gap-2 group transition-opacity hover:opacity-90"
-            aria-label="Odyssey AI Home"
+            aria-label="AiTravelPlanner Home"
           >
             <div className="w-8 h-8 relative rounded-lg overflow-hidden shrink-0">
               <Image
                 src={ASSETS.icons.logo}
-                alt="ODYSSEY AI Logo"
+                alt="AiTravelPlanner Logo"
                 width={32}
                 height={32}
                 className="w-full h-full object-contain"
@@ -53,7 +53,7 @@ export default function Header({ initialUser = null, initialActiveTrip = null })
               />
             </div>
             <span className="font-extrabold text-slate-900 tracking-tight text-base sm:text-lg">
-              ODYSSEY
+              AiTravelPlanner
             </span>
             <span className="text-[10px] font-bold text-sky-700 bg-sky-50 border border-sky-100 px-2 py-0.5 rounded-pill leading-none">
               AI 2.0

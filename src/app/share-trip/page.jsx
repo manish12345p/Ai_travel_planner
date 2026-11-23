@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Share Trip - ODYSSEY AI',
+  title: 'Share Trip - AiTravelPlanner',
 };
 
 export default function ShareTripPage() {

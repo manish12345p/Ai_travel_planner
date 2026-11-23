@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Reusable error state component matching the Odyssey theme.
+ * Reusable error state component matching the AiTravelPlanner theme.
  *
  * @param {object} props
  * @param {string} [props.message='Unable to load data']

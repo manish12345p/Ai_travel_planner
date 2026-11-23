@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Explorer Profile - ODYSSEY AI',
+  title: 'Explorer Profile - AiTravelPlanner',
 };
 
 export default function ProfilePage() {

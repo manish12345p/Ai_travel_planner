@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Offline Vault - ODYSSEY AI',
+  title: 'Offline Vault - AiTravelPlanner',
 };
 
 export default function VaultPage() {

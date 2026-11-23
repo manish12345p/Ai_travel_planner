@@ -1,8 +1,8 @@
-# Odyssey AI — Spatial Travel Intelligence
+# AiTravelPlanner — Spatial Travel Intelligence
 
-A Next.js (App Router), Tailwind CSS, and DaisyUI frontend for **Odyssey AI**, a service that generates personalized, budget-aware, algorithmically paced travel itineraries.
+A Next.js (App Router), Tailwind CSS, and DaisyUI frontend for **AiTravelPlanner**, a service that generates personalized, budget-aware, algorithmically paced travel itineraries.
 
-![Odyssey AI Preview](./assets/images/reference-screen.png)
+![AiTravelPlanner Preview](./assets/images/reference-screen.png)
 
 ---
 
@@ -93,7 +93,7 @@ In `.env.local`:
 NEXT_PUBLIC_USE_MOCK_API=true
 
 # Real backend API base URL
-NEXT_PUBLIC_API_BASE_URL=https://api.odyssey.travel/v1
+NEXT_PUBLIC_API_BASE_URL=https://api.aitravelplanner.io/v1
 ```
 
 Each service method includes JSDoc documentation specifying endpoint paths, request parameters, and response shapes, making it seamless to replace with a real REST or GraphQL backend without touching any UI component.

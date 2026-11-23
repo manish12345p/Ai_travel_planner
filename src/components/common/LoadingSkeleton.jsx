@@ -1,7 +1,7 @@
 import React from 'react';
 
 /**
- * Reusable loading skeleton matching Odyssey's soft card style.
+ * Reusable loading skeleton matching AiTravelPlanner's soft card style.
  *
  * @param {object} props
  * @param {string} [props.className='']

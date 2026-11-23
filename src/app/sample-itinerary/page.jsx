@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Sample Itinerary - ODYSSEY AI',
+  title: 'Sample Itinerary - AiTravelPlanner',
 };
 
 export default function SampleItineraryPage() {

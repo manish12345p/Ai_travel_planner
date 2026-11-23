@@ -3,7 +3,7 @@ import { mockCapabilities } from '@/data/mock/capabilities';
 
 /**
  * Endpoint: GET /api/v1/platform/capabilities
- * Description: Retrieves Odyssey's 3 real-time spatial capabilities (telemetry, budget, vault).
+ * Description: Retrieves AiTravelPlanner's 3 real-time spatial capabilities (telemetry, budget, vault).
  *
  * @returns {Promise<{
  *   data: Array<{

@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'FlightDeck Support - ODYSSEY AI',
+  title: 'FlightDeck Support - AiTravelPlanner',
 };
 
 export default function SupportPage() {

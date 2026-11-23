@@ -8,7 +8,7 @@ export const mockCtaData = {
   description:
     'Join 84,000+ autonomous travelers who have eliminated tabs, spreadsheets, and decision paralysis.',
   primaryAction: {
-    label: 'Launch Odyssey Web Free',
+    label: 'Launch AiTravelPlanner Web Free',
     href: '/plan',
   },
   secondaryAction: {

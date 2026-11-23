@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Blueprint Details - ODYSSEY AI',
+  title: 'Blueprint Details - AiTravelPlanner',
 };
 
 export default function BlueprintDetailPage({ params }) {

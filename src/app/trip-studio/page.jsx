@@ -1,7 +1,7 @@
 import ComingSoonPlaceholder from '@/components/common/ComingSoonPlaceholder';
 
 export const metadata = {
-  title: 'Trip Studio - ODYSSEY AI',
+  title: 'Trip Studio - AiTravelPlanner',
 };
 
 export default function TripStudioPage() {

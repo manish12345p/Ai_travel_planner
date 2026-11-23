@@ -19,7 +19,7 @@ export default function Footer() {
               className="w-full h-full object-contain"
             />
           </div>
-          <span className="font-semibold text-slate-800 tracking-tight">ODYSSEY AI</span>
+          <span className="font-semibold text-slate-800 tracking-tight">AiTravelPlanner</span>
           <span>© 2025 Spatial Autonomous Travel Systems.</span>
         </div>
 

@@ -19,9 +19,9 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata = {
-  title: 'ODYSSEY AI | Wander with intention.',
+  title: 'AiTravelPlanner | Wander with intention.',
   description:
-    'Odyssey orchestrates seamless routes, real-time pacing, and map-anchored journeys in seconds.',
+    'AiTravelPlanner orchestrates seamless routes, real-time pacing, and map-anchored journeys in seconds.',
   icons: {
     icon: '/assets/icons/logo.svg',
   },

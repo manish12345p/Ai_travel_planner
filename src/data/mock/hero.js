@@ -8,7 +8,7 @@ export const mockHeroData = {
     subtitle: 'SPATIAL TRAVEL INTELLIGENCE',
   },
   heading: 'Wander with intention.',
-  subheading: 'Odyssey orchestrates seamless routes, real-time pacing, and map-anchored journeys in seconds.',
+  subheading: 'AiTravelPlanner orchestrates seamless routes, real-time pacing, and map-anchored journeys in seconds.',
   searchPlaceholder: 'Where do you want to explore? (e.g. 5 days in Kyo...',
   filters: [
     { id: 'arch', label: 'Architecture & Sights' },
