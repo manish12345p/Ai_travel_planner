@@ -157,10 +157,10 @@ export default function Header({ initialUser = null, initialActiveTrip = null })
             className="flex items-center gap-2 pl-1 pr-2 py-1 rounded-pill hover:bg-slate-100 transition-colors group"
             aria-label={`View profile for ${user?.name || 'Alex Rivera'}`}
           >
-            <div className="w-7 h-7 rounded-full overflow-hidden bg-sky-100 border border-sky-300 relative shrink-0">
+            <div className="w-7 h-7 rounded-full overflow-hidden bg-gradient-to-tr from-sky-500 to-blue-600 border border-sky-200 relative shrink-0 flex items-center justify-center text-white text-[10px] font-bold">
               <Image
                 src={ASSETS.images.avatarAlexRivera}
-                alt={user?.name || 'Alex Rivera'}
+                alt=""
                 width={28}
                 height={28}
                 className="w-full h-full object-cover"
